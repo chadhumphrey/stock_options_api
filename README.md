@@ -1,1 +1,1 @@
-# stock_options_api
+This repo was created for the sole purpose of providing a central location for information on Stock and Options trading APIs. Pull Requests accepted. Repo is maintained by chad@strategic-options.com and originated from the following blog <a href="https://wp.me/p25vVm-aP" target="_blank:>post.</a> 
