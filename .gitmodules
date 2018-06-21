@@ -1,0 +1,3 @@
+[submodule "Earnings-Scraper/Earnings-Scrape/yahoo-earnings-calendar"]
+	path = Earnings-Scraper/Earnings-Scrape/yahoo-earnings-calendar
+	url = https://github.com/wenboyu2/yahoo-earnings-calendar
