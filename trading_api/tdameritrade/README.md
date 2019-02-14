@@ -4,7 +4,7 @@ This is a very basic start to the accessing the TD Ameritrade API.  It was built
 
 ```python3  get_end_of_day_stocks.py``` will get you the closing price of stocks.
 
-``python3 `stock_history_quotes.py``` will provide historical data of a particular stock
+```python3 `stock_history_quotes.py``` will provide historical data of a particular stock
 
 ```python3 stock_movers.py``` will get a list of stocks on the move.
 
