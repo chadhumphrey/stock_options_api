@@ -10,4 +10,4 @@ This is a very basic start to the accessing the TD Ameritrade API.  It was built
 
 This is just a starting point, not the end. Pull requests accepted as well as issues.
 
-However, bear in mind, I have a full time lousy job, working my own trading algorithm, a father of a four year old and a husband.
+However, bear in mind, I have a full time lousy job, working my own <a href="http://www.marketquants">trading algorithm</a>, a father of a four year old and a husband. :)
